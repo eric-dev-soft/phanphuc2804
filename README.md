@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hoang Phuc</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A passionate developer from Vietnam </h3>
-<p align="center"> <img src="https://badges.pufler.dev/repos/phanphuc2804" alt="phucphan2804" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=phanphuc2804" alt="phanphuc2804" /> <img src="https://badges.pufler.dev/repos/phanphuc2804" alt="phucphan2804" /> </p>
 
 - ✍ I'm a final-year student of: [Industrial University of HoChiMinh City](http://iuh.edu.vn/) (IUH).
 
@@ -32,7 +32,7 @@
    
   <img src="https://img.icons8.com/color/48/undefined/java-coffee-cup-logo--v1.png"/>
   <img src="https://img.icons8.com/officel/48/php-logo.png"/>
-  <img src="https://img.icons8.com/stickers/344/laravel.png"/>
+  <img src="https://img.icons8.com/stickers/48/laravel.png"/>
   <img src="https://img.icons8.com/color/48/undefined/react-native.png"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
